@@ -1,0 +1,4 @@
+aiohttp
+pycryptodome
+colorama
+urllib3
